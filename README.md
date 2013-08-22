@@ -7,7 +7,9 @@ The idea for this project is to show a simple method for using socet server to c
 
 no repository requirements, simple make executable and execute with required commands. e.g.
 
-./whoisClient.py -i origin AS3333 
+./whoisClient.py -i origin AS3333
+OR
+python whoisClient.py -i origin AS3333
 
 This will execute command,
 
